@@ -1,0 +1,12 @@
+
+bin/build.xml
+
+bin/classes/
+
+mas-0.log.0
+
+mas-0.log.1
+
+tests.log
+
+tests.log.lck

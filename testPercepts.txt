@@ -1,0 +1,7 @@
+bumper(false,false)
+bumper(false,false)
+bumper(false,false)
+bumper(true,false)
+bumper(true,true)
+bumper(true,true)
+bumper(false,false)
