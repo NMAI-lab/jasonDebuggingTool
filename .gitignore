@@ -10,3 +10,7 @@ mas-0.log.1
 tests.log
 
 tests.log.lck
+
+*.asl~
+
+*.java~
