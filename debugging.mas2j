@@ -7,5 +7,7 @@ MAS saviDebug {
 
     environment: DebugEnvironment
 
-    agents: demo;
+    //agents: experiment;
+	agents: 
+		demo agentClass SaviAgentBrain;
 }
